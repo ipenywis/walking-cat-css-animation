@@ -1,0 +1,9 @@
+{
+  "name": "css-walking-cat",
+  "version": "1.0.0",
+  "description": "Animating a Cat using CSS ",
+  "main": "index.js",
+  "author": "Islem Maboud",
+  "license": "MIT",
+  "private": false
+}
